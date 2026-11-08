@@ -1,0 +1,6 @@
+{
+  "name": "Android TV IPTV Player",
+  "description": "Ultra-fast, low-latency IPTV player optimized for Android TV (Android 7, 2GB RAM) with monochrome black-and-white rounded UI, numbered channel guide, remote control support, and zero buffering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
